@@ -21,9 +21,9 @@
     "lint": "npm run lint:prettier && npm run lint:eslint && npm run typecheck"
   },
   "dependencies": {
-    "@docusaurus/core": "^2.0.0-rc.1",
-    "@docusaurus/plugin-ideal-image": "^2.4.0",
-    "@docusaurus/preset-classic": "^2.0.0-rc.1",
+    "@docusaurus/core": "^3.6.3",
+    "@docusaurus/plugin-ideal-image": "^3.6.3",
+    "@docusaurus/preset-classic": "^3.6.3",
     "@easyops-cn/docusaurus-search-local": "^0.23.2",
     "@mdx-js/react": "^1.6.21",
     "@tippyjs/react": "^4.2.6",
@@ -42,7 +42,7 @@
     "@babel/eslint-parser": "^7.18.9",
     "@docusaurus/eslint-plugin": "^2.0.0-rc.1",
     "@docusaurus/module-type-aliases": "^2.4.0",
-    "@trivago/prettier-plugin-sort-imports": "^3.3.0",
+    "@trivago/prettier-plugin-sort-imports": "^5.2.0",
     "@tsconfig/docusaurus": "^1.0.7",
     "@types/js-yaml": "^4.0.5",
     "@types/node": "^18.15.11",
